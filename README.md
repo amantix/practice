@@ -3,4 +3,4 @@
 2)Саттаров Артур
 3)Григорьев Яков
 VKbot
-[https://github.com/PrepConcedeITIS/VKBotDotNetPractice]
+https://github.com/PrepConcedeITIS/VKBotDotNetPractice
