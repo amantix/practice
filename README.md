@@ -11,3 +11,5 @@ DarkSoulsAssistant-TelegramBot(Саттаров Артур,Гилязов Таг
 Nezabudka_Bot-project (Закиров Дамир, Федорова Анна, Хамидуллина Нурия) [here](/Nezabudka_Bot.md)
 
 Recipe-project (Орлов Дмитрий, Соловьев Артем, Минахметова Альбина) [here](/RecipeTeam.md)
+
+Chart_bot (Архипов Никита, Шамарданов Фарит) [here](/Chart_bot.md)
