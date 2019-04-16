@@ -5,5 +5,5 @@
 Григорьев Яков
 
 Телеграм бот для фанатов DarkSouls,который обеспечивает подписчика полезной и интересной информацей этой игровой вселенной.
-[ссылка на репозиторий проекта](https://github.com/PrepConcedeITIS/DSAssistant)
+[ссылка на репозиторий проекта](https://github.com/PrepConcedeITIS/dsassistantcore)
 
