@@ -15,3 +15,5 @@ Recipe-project (Орлов Дмитрий, Соловьев Артем, Мина
 Chart_bot (Архипов Никита, Шамарданов Фарит) [here](/Chart_bot.md)
 
 Efrgitus (Мукиев Мухаммад, Дмитрий Подлевских, Дмитрий Чегодаев) [here](/Efrgitus.md)
+
+WeatherBot(Малышкин Егор, Полутин Филипп) [here](/WeatherBot.md)
